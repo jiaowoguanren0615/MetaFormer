@@ -5,9 +5,14 @@
 ## [official source code](https://github.com/sail-sg/metaformer)  
 ## For segmentation tasks, please refer this [github warehouse](https://github.com/jiaowoguanren0615/Segmentation_Factory/blob/main/models/backbones/metaformer.py)  
 ## For detection tasks(___Based on DETR Detector architecture___), please refer this [github warehouse](https://github.com/jiaowoguanren0615/Detection-Factory/blob/main/configs/salience_detr_metaformer_800_1333.py)  
- 
 
+## Model Architecture & Performance 
+![image](https://github.com/jiaowoguanren0615/MetaFormer/blob/main/sample_png/197580831-fc937e24-9941-4794-b99d-822748fa0f11.png)  
+![image](https://github.com/jiaowoguanren0615/MetaFormer/blob/main/sample_png/212324452-ee5ccbcf-5577-42cb-9fa4-b9e6bdbb6d4a.png)
+![image](https://github.com/jiaowoguanren0615/MetaFormer/blob/main/sample_png/197601575-6a19ed8c-7bc2-433b-895b-e5363358ea77.png)  
 
+## [AdamAtan2 Optimizer](https://api.semanticscholar.org/CorpusID:271051056)
+![image](https://github.com/jiaowoguanren0615/MetaFormer/blob/main/sample_png/adam-atan2.png)  
 
 ## Preparation
 
